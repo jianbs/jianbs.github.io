@@ -1,9 +1,0 @@
-[ 2017-02-24T08:56:28+08:00 ]EXCEPTION: SELECT count(*) AS m FROM article  WHERE isrecycle = ?     ;BindParams:array (
-  1 => 0,
-)42S22;1054;Unknown column 'isrecycle' in 'where clause'
-[ 2017-02-24T09:11:16+08:00 ]E_ERROR: Class 'system\model\page' not found(E_ERROR)/Applications/MAMP/htdocs/houdun/blog/system/model/Article.php (72).
-[ 2017-02-24T10:16:45+08:00 ]E_USER_ERROR: 模板不存在:app/admin/view/article/edit.php(256)/Applications/MAMP/htdocs/houdun/blog/vendor/houdunwang/view/src/build/Base.php (130).
-[ 2017-02-24T10:30:00+08:00 ]E_PARSE: syntax error, unexpected '==' (T_IS_EQUAL), expecting ')'(E_PARSE)/Applications/MAMP/htdocs/houdun/blog/storage/view/compile/app_admin_view_article_edit_php_183c3.php (208).
-[ 2017-02-24T10:30:41+08:00 ]E_PARSE: syntax error, unexpected '==' (T_IS_EQUAL), expecting ')'(E_PARSE)/Applications/MAMP/htdocs/houdun/blog/storage/view/compile/app_admin_view_article_edit_php_183c3.php (208).
-[ 2017-02-24T21:41:38+08:00 ]E_USER_ERROR: 模板不存在:app/admin/view/link/edit.php(256)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog/vendor/houdunwang/view/src/build/Base.php (130).
-[ 2017-02-24T21:41:58+08:00 ]E_USER_ERROR: 模板不存在:app/admin/view/link/edit.php(256)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog/vendor/houdunwang/view/src/build/Base.php (130).

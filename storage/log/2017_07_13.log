@@ -1,3 +1,0 @@
-[ 2017-07-13T01:52:20+08:00 ]E_NOTICE: Unknown: send of 5 bytes failed with errno=32 Broken pipe(E_NOTICE)Unknown (0).
-[ 2017-07-13T19:42:20+08:00 ]E_DEPRECATED: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead.(E_DEPRECATED)Unknown (0).
-[ 2017-07-13T23:10:36+08:00 ]E_DEPRECATED: Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead.(E_DEPRECATED)Unknown (0).

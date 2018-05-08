@@ -1,7 +1,0 @@
-[ 2017-03-10T21:35:30+08:00 ]E_ERROR: Call to undefined method app\home\controller\Listpage::getPage()(E_ERROR)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/app/home/controller/Listpage.php (25).
-[ 2017-03-10T21:35:57+08:00 ]E_ERROR: Call to undefined method app\home\controller\Listpage::getPage()(E_ERROR)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/app/home/controller/Listpage.php (25).
-[ 2017-03-10T21:42:24+08:00 ]E_ERROR: Call to undefined method app\home\controller\Listpage::getPage()(E_ERROR)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/app/home/controller/Listpage.php (25).
-[ 2017-03-10T21:44:10+08:00 ]E_ERROR: Call to undefined method app\home\controller\Listpage::getPage()(E_ERROR)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/app/home/controller/Listpage.php (25).
-[ 2017-03-10T21:44:51+08:00 ]E_ERROR: Call to undefined method app\home\controller\Listpage::getPage()(E_ERROR)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/app/home/controller/Listpage.php (25).
-[ 2017-03-10T21:46:53+08:00 ]E_ERROR: Call to undefined method app\home\controller\Listpage::getPage()(E_ERROR)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/app/home/controller/Listpage.php (25).
-[ 2017-03-10T21:47:52+08:00 ]E_ERROR: Call to undefined method app\home\controller\Listpage::getPage()(E_ERROR)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/app/home/controller/Listpage.php (25).

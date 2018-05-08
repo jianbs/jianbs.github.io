@@ -1,4 +1,0 @@
-[ 2017-03-04T21:56:25+08:00 ]E_COMPILE_ERROR: Cannot use [] for reading(E_COMPILE_ERROR)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/storage/view/compile/app_home_view_content_index_php_c8a8a.php (171).
-[ 2017-03-04T21:57:25+08:00 ]E_WARNING: Missing argument 1 for houdunwang\db\Query::field(), called in /Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/app/home/controller/Content.php on line 34 and defined(2)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/vendor/houdunwang/db/src/Query.php (530).
-[ 2017-03-04T22:20:24+08:00 ]E_WARNING: Illegal string offset 'cname'(2)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/storage/view/compile/app_home_view_content_index_php_c8a8a.php (221).
-[ 2017-03-04T22:21:36+08:00 ]E_WARNING: Illegal string offset 'cname'(2)/Applications/MAMP/htdocs/houdun/Jian_Blog/blog_two/storage/view/compile/app_home_view_content_index_php_c8a8a.php (221).
